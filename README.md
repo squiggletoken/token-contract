@@ -6,6 +6,8 @@
 
 ## Token Overview
 
+<img src="https://github.com/squiggletoken/token-contract/raw/main/squiggle-monster-token-logo.png" width="64" alt="Squiggle Monster (SQGL)" />
+
 **Name:** Squiggle Monster (SQGL)  
 **Blockchain:** Binance Smart Chain (BSC)  
 **Token Standard:** BEP20 (ERC20)  

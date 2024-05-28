@@ -15,6 +15,7 @@
 **Total Supply:** 343,434,343,434.343434343434343434 SQGL  
 **Token Contract:** [0x537Df5F0eF0b02Df25e2B1ab9998025B8CCF4ecF](https://bscscan.com/token/0x537Df5F0eF0b02Df25e2B1ab9998025B8CCF4ecF)  
 **Whitepaper**: [Squiggle Monster (SQGL) Whitepaper](https://squiggle.monster/sqgl-whitepaper.pdf)
+**Source Code**: [github:squiggletoken/token-contract](https://github.com/squiggletoken/token-contract)
 
 ## Social Media
 

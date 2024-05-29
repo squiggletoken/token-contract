@@ -19,7 +19,7 @@
 
 ## Social Media
 
-**Telegram**: [@squiggle_global](https://t.me/squiggle_global)  
+**Telegram**: [@squiggle_global](https://t.me/squiggle_official)  
 **X**: [@squiggletoken](https://x.com/squiggletoken)  
 **TikTok**: [@squiggletoken](https://tiktok.com/@squiggletoken)  
 **Instagram**: [@squiggletoken](https://instagram.com/squiggletoken)  
